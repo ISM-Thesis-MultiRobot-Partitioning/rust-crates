@@ -1,0 +1,6 @@
+[submodule "partition-api"]
+	path = partition-api
+	url = https://github.com/ISM-Thesis-MultiRobot-Partitioning/partition-api.git
+[submodule "local-robot-map"]
+	path = local-robot-map
+	url = https://github.com/ISM-Thesis-MultiRobot-Partitioning/local-robot-map.git
